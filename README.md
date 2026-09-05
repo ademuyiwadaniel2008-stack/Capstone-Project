@@ -11,7 +11,7 @@ image gallery, displays a static comparative facts table, and includes a validat
 - [Ademuyiwa Daniel](https://github.com/ademuyiwadaniel2008-stack)
 
 ## Live Demo
-Deployment link: _add once deployed_
+Deployment link: https://capstone-project-ademuyiwadaniel2008-stack.wasmer.app/
 
 ## Project Structure
 
