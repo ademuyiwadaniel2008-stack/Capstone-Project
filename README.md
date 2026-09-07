@@ -54,12 +54,4 @@ python3 -m http.server 5173
 
 Then visit the printed local URL in your browser.
 
-## Notes for the team
 
-- **Video:** add your own explainer clip to `assets/videos/solar-system-overview.mp4` (the
-  `<video>` tag is already wired for autoplay, muted, loop, per the spec).
-- **Contact endpoint:** `CONTACT_ENDPOINT` in `js/ts.js` is a placeholder — swap in the real
-  submission endpoint from the assignment brief.
-- **Meta author tag:** update `<meta name="author">` in `ts.html` with the group name.
-- **Footer:** swap the bracketed placeholders in the About blurb and the `Groupname` credit link
-  for your team's real details and repo URL.
