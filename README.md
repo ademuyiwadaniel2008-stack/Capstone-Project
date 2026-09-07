@@ -3,6 +3,7 @@
 A data-driven solar system explorer built with HTML, CSS, and  JavaScript for the
 TSAcademy Frontend Capstone Project. It fetches planet data via the Fetch API, renders a responsive
 image gallery, displays a static comparative facts table, and includes a validated contact form.
+This project was done by Ademuyiwa Daniel 
 
 
 ## Group: [Group 21]
@@ -22,10 +23,8 @@ Deployment link: https://ademuyiwa-tsacademy-project.netlify.app
 │   └── styles.css      All styling, design tokens, responsive rules
 ├── js/
 │   └── script.js       Fetch API gallery, video control, form validation & submission
-├── data/
-│   └── planets.json    Local seed data matching the course API's response shape
-└── assets/
-    └── videos/         Drop your explainer video file here (see note below)
+└── images/
+                        Local image of the favicon(svg) and hero plaent(png)
 ```
 
 ## Components / Sections
