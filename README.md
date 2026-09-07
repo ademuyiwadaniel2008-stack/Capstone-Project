@@ -1,9 +1,7 @@
 # Planet — Explore Our Solar System Through Data
 
-A data-driven solar system explorer built with HTML, CSS, and  JavaScript for the
-TSAcademy Frontend Capstone Project. It fetches planet data via the Fetch API, renders a responsive
-image gallery, displays a static comparative facts table, and includes a validated contact form.
-This project was done by Ademuyiwa Daniel 
+Planet — Explore Our Solar System Through Data is an interactive, data-driven web application built with HTML, CSS, and  JavaScript as a capstone project for TS Academy . The application provides an educational overview of the solar system by presenting measurable planetary physical properties—such as mass, diameter, gravity, density, and distance from the Sun—in a structured and visually appealing format. 
+It fetches planet data via the Fetch API, renders a responsive image gallery, displays a static comparative facts table, and includes a validated contact form.
 
 
 ## Group: [Group 21]
