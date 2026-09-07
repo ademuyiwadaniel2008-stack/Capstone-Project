@@ -23,7 +23,7 @@ Deployment link: https://ademuyiwa-tsacademy-project.netlify.app
 ├── js/
 │   └── script.js       Fetch API gallery, video control, form validation & submission
 └── images/
-                        Local image of the favicon(svg) and hero plaent(png)
+                        Local image of the favicon(svg and png) and hero plaent(png)
 ```
 
 ## Components / Sections
